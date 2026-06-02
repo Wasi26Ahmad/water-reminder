@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Water Reminder
+Comment=Drink water reminders
+Exec=/usr/local/bin/water-reminder
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;

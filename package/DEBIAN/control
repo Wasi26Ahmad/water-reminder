@@ -1,0 +1,8 @@
+Package: water-reminder
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Wasi Ahmad
+Description: Water reminder desktop application
+ Reminds users to drink water at configurable intervals.
